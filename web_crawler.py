@@ -5,7 +5,7 @@ import urllib3
 # disable HTTPS warnings
 urllib3.disable_warnings()
 
-
+## Fixing the bug
 ## This is sample file for web crawler
 
 def count_words(url, the_word):
