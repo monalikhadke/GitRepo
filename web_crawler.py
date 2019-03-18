@@ -6,6 +6,8 @@ import urllib3
 urllib3.disable_warnings()
 
 
+## This is sample file for web crawler
+
 def count_words(url, the_word):
     # photon_requests_session = requests.sessions.Session()
     # photon_requests_session.verify = "D:/euctr.cer"
